@@ -1,0 +1,3 @@
+<h1>Infraestutura como Código: Script de criação de estrutura de usuários, diretórios e grupos</hi>
+<p> Esse é um script par automatizar a criação de uma estrutura para um servidor Linux Ubuntu Server. Ele foi desenvolvido como resolução de um desafio de projeto do bootcamp Linux Experience da DIO.me. Abaixo está a estrutura do servidor proposta pelo desafio:
+<img href="C:\Universidade\programação\bootcamp-linux-experience\desafio-iac\estrutura.png">

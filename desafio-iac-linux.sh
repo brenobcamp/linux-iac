@@ -54,10 +54,10 @@ usermod -G GRP_SEC rogerio
 
 echo "Definindo permissões..."
 
-chmod root:GRP_ADM /adm
-chmod root:GRP_VEN /ven
-chmod root:GRP_SEC /sec
-chmod root:root /publico
+chown root:GRP_ADM /adm
+chown root:GRP_VEN /ven
+chown root:GRP_SEC /sec
+chown root:root /publico
 
 chmod 777 /publico
 chmod 770 /adm
